@@ -8,14 +8,9 @@ A starter for creating a Figma Plugin with Vue3, Typescript, and Vite
 - Install
 
 ```
-yarn
+pnpm install
+pnpm run build
 ```
-- Run dev
-
-```
-yarn dev
-```
-
 ## Testing in Figma
 Open the Figma desktop app, create a new plugin and
 modify the `public/manifest.json` file
@@ -30,9 +25,4 @@ modify the `public/manifest.json` file
   ],
   "ui": "index.html"
 }
-```
-
-Run in Figma
-```
-yarn watch
 ```
