@@ -1,0 +1,10 @@
+{
+  "name": "Rectangle Creator",
+  "id": "_Cm929J-cu10cmqrzbnIS",
+  "api": "1.0.0",
+  "main": "code/index.js",
+  "ui": "ui/index.html",
+  "editorType": [
+    "jsDesign"
+  ]
+}
